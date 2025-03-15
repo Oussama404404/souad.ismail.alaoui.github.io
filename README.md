@@ -1,27 +1,28 @@
 # 
-
-#### Technical Skills: 
-
 ## Education
+- Baccalauréat en Sciences Physiques
+Lycée ANASSI, Meknès | 2016 - 2017
 
+- Diplôme d’Études Universitaires Générales (DEUG) en Sciences Économiques et Gestion
+Faculté des Sciences Juridiques, Économiques et Sociales, Meknès | 2017 - 2019
 
-## Work Experience
+- Licence en Sciences Économiques et Gestion
+Faculté des Sciences Juridiques, Économiques et Sociales, Meknès | 2019 - 2020
 
+- Master spécialisé en Finance, Banque et Assurance
+Faculté des Sciences Juridiques, Économiques et Sociales, Meknès | 2020 - 2022
 
-
+#### Compétences techniques: 
+- Github
+- Python 
+- Word
+- Excel
+- Power point 
 
 ## Projects
-
-
-
-
-## Talks & Lectures
-
+- Evaluation de la performance des banques au Maroc à l’heure de la digitalisation et la pandémie COVID-19
 
 
 ## Publications
 
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
